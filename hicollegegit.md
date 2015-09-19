@@ -6,6 +6,7 @@
 Software Configuration Management (SCM) in development Projects means a
 whole bunch of exciting challenges relating to the team, the code base,
 tools and the organization.
+test - Naim
 
 Good SCM is a prerequisite for an efficient team striving to deliver 
 high quality, but despite this such competence is fairly hard to 
